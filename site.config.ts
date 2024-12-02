@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Rijal',
 
   // open graph metadata (optional)
-  description: 'UniqueLoot Blog',
+  description: 'Welcome uniquers, your ultimate destination for discovering the most unique and extraordinary treasures from around the world. Our blog is dedicated to unique, uncommon and one-of-a-kind items that bring joy, value, and a touch of magic to your life.',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
